@@ -4,6 +4,6 @@
 
 - [X]  Diseñar Esquema de Base de Datos de Notas
 - [ ]  Crear funcionalidades de CRUD
-- [ ]  Crear conexión a base de datos
+- [X]  Crear conexión a base de datos
 - [ ]  Diseñar aplicación CD/CI
 - [ ]  Crear Test Unitario

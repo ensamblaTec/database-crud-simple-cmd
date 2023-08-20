@@ -3,7 +3,7 @@
 ## Funcionalidades
 
 - [X]  Diseñar Esquema de Base de Datos de Notas
-- [ ]  Crear funcionalidades de CRUD
+- [X]  Crear funcionalidades de CRUD
 - [X]  Crear conexión a base de datos
-- [ ]  Diseñar aplicación CD/CI
+- [X]  Diseñar aplicación CD/CI
 - [ ]  Crear Test Unitario

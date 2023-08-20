@@ -37,7 +37,7 @@ func DeleteUser(id uint) error {
 	return nil
 }
 
-func SelectUser(id uint) error {
+func GetUser(id uint) error {
 	query := "select * from users where id=$1"
 	ok, err := database.GetConn().Exec(query, id)
 	if err != nil {
